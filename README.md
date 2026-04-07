@@ -14,10 +14,11 @@ Uma ferramenta CLI leve e rápida para reconhecimento de dados corporativos e ex
 ## ⚙️ Instalação
 
 Certifique-se de ter o Python 3 instalado. Clone o repositório e instale as dependências:
-
+```
 git clone https://github.com/JuniorRedWolf/sniff-cross.git
 cd sniff-cross
 pip install -r requirements.txt
+```
 
 ## 🛠️ Como Usar
 
